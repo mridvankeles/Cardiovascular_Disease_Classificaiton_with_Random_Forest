@@ -1,0 +1,79 @@
+INFO:root:Train shape: (63000, 13)
+Test shape: (7000, 13)
+INFO:root:There are no missing values in any features.
+INFO:root:There are no missing values in any features.
+INFO:root:Score:0.7432857142857143
+INFO:root:----------------------------------------------------
+INFO:root:Confusion Matrix
+INFO:root:True Positive Cases : 2407
+INFO:root:True Negative Cases : 2796
+INFO:root:False Positive Cases : 706
+INFO:root:False Negative Cases : 1091
+INFO:root:All project has been executed at 2023-01-11 14:16:46.352379.
+INFO:root:-------------------------------------------------------------------
+<<<<<<< HEAD
+INFO:root:There are no missing values in any features.
+INFO:root:Training at 2022-12-09 17:09:17.177571 has been executed.
+INFO:root:Score:0.7432857142857143
+INFO:root:There are no missing values in any features.
+=======
+>>>>>>> 717fea738dd7786bcd8ccd7977c3f174ba127b60
+INFO:root:Score:0.5008571428571429
+INFO:root:Score:0.5008571428571429
+INFO:root:----------------------------------------------------
+INFO:root:Confusion Matrix
+INFO:root:True Positive Cases : 5
+INFO:root:True Negative Cases : 3501
+INFO:root:False Positive Cases : 1
+INFO:root:False Negative Cases : 3493
+INFO:root:Training at 2023-02-15 11:30:24.227974 has been executed.
+INFO:root:Score:0.743
+INFO:root:----------------------------------------------------
+INFO:root:Confusion Matrix
+INFO:root:True Positive Cases : 2407
+INFO:root:True Negative Cases : 2794
+INFO:root:False Positive Cases : 708
+INFO:root:False Negative Cases : 1091
+INFO:root:Train shape: (63000, 13)
+Test shape: (7000, 13)
+INFO:root:There are no missing values in any features.
+INFO:root:There are no missing values in any features.
+INFO:root:Score:0.743
+INFO:root:----------------------------------------------------
+INFO:root:Confusion Matrix
+INFO:root:True Positive Cases : 2407
+INFO:root:True Negative Cases : 2794
+INFO:root:False Positive Cases : 708
+INFO:root:False Negative Cases : 1091
+INFO:root:All project has been executed at 2023-02-15 11:50:23.223061.
+INFO:root:-------------------------------------------------------------------
+INFO:root:Train shape: (63000, 13)
+Test shape: (7000, 13)
+INFO:root:There are no missing values in any features.
+INFO:root:There are no missing values in any features.
+INFO:root:Score:0.743
+INFO:root:----------------------------------------------------
+INFO:root:Confusion Matrix
+INFO:root:True Positive Cases : 2407
+INFO:root:True Negative Cases : 2794
+INFO:root:False Positive Cases : 708
+INFO:root:False Negative Cases : 1091
+INFO:root:All project has been executed at 2023-02-15 11:58:55.650862.
+INFO:root:-------------------------------------------------------------------
+INFO:root:Train shape: (63000, 13)
+Test shape: (7000, 13)
+INFO:root:There are no missing values in any features.
+INFO:root:There are no missing values in any features.
+INFO:root:Train shape: (63000, 13)
+Test shape: (7000, 13)
+INFO:root:There are no missing values in any features.
+INFO:root:There are no missing values in any features.
+INFO:root:Score:0.743
+INFO:root:----------------------------------------------------
+INFO:root:Confusion Matrix
+INFO:root:True Positive Cases : 2407
+INFO:root:True Negative Cases : 2794
+INFO:root:False Positive Cases : 708
+INFO:root:False Negative Cases : 1091
+INFO:root:All project has been executed at 2023-02-15 14:51:47.231433.
+INFO:root:-------------------------------------------------------------------
